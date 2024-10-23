@@ -2,8 +2,10 @@
 
 :root {
   --primary-color: #B9001F;
+  --secundary-color: yellow;  
 }
 
 body {
   font-family: 'Poppins', sans-serif;
 }
+
